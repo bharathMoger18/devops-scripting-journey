@@ -16,7 +16,7 @@ LOG_DIR="/mnt/linux-projects/devops-scripts/logs"
 # LOCAL VARIABLES
 
 engineer_name='bharath'
-today='Friday'
+# today='Fridcay'
 
 
 # using varibales
